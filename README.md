@@ -6,6 +6,7 @@ Completed Labs for Brian Pfaff
 2. [John Q's Lab 2](//github.com/johnqstudent/idd-fa18-lab2) --->
 
 1. [Lab 1](https://github.com/bripfaff/IDD-Fa18-Lab1/blob/master/README.md)
+2. [Lab 2](https://github.com/bripfaff/IDD-Fa18-Lab2)
 
 
 PreLabs
