@@ -12,4 +12,5 @@ Completed Labs for Brian Pfaff
 PreLabs
 
 1. [Prelab 2](https://github.com/bripfaff/IDD-fa18-Prelab2/blob/master/README.md)
+2. [Prelab 3](https://github.com/bripfaff/IDD-Fa18-Prelab3/blob/master/README.md)
 
