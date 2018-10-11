@@ -9,6 +9,7 @@ Completed Labs for Brian Pfaff
 2. [Lab 2](https://github.com/bripfaff/IDD-Fa18-Lab2)
 3. [Lab 3](https://github.com/bripfaff/IDD-Fa18-Lab3/)
 4. [Lab 4](https://github.com/bripfaff/IDD-Fa18-Lab4/)
+5. [Lab 5](https://github.com/bripfaff/IDD-Fa18-Lab5/)
 
 
 PreLabs
