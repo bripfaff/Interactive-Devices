@@ -20,4 +20,4 @@ PreLabs
 3. [Prelab 4](https://github.com/bripfaff/IDD-Fa18-Prelab4/blob/master/README.md)
 
 
-[Final Project]
+[Final Project](https://github.com/bripfaff/IDD-Fa18-Final_Project/blob/master/README.md)
